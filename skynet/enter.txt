@@ -1,0 +1,15 @@
+{
+	Name = Sun;
+	Radius = 6.957e8f;
+	Mass = 1.989e30f;
+	Coordinate = ( 0, 0, 0);
+	Velocity = ( 0, 0, 0);
+}
+
+{
+	Name = Earth;
+	Radius = 6.371e6f;
+	Mass = 5.972e24f;
+	Coordinate = ( 1.496e11f, 0, 0);
+	Velocity = ( 0, 29.78e3f, 0);
+}
